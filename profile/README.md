@@ -13,6 +13,7 @@ We develop discord.js, a powerful JavaScript/TypeScript library that allows one 
 - [Guide]
 - [Related Libraries]
 - [Website]
+- [Open Collective]
 
 Our current project can be viewed [here][Project].
 
@@ -21,3 +22,4 @@ Our current project can be viewed [here][Project].
 [Related Libraries]: https://discord.com/developers/docs/topics/community-resources#libraries
 [Project]: https://github.com/orgs/discordjs/projects/2
 [Website]: https://discord.js.org/
+[Open Collective]: https://opencollective.com/discordjs
