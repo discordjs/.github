@@ -19,7 +19,7 @@ Our current project can be viewed [here][Project].
 
 [Discord server]: https://discord.gg/djs
 [Guide]: https://discordjs.guide/
-[Related Libraries]: https://discord.com/developers/docs/topics/community-resources#libraries
+[Related Libraries]: https://docs.discord.com/developers/developer-tools/community-resources#libraries
 [Project]: https://github.com/orgs/discordjs/projects/2
 [Website]: https://discord.js.org/
 [Open Collective]: https://opencollective.com/discordjs
